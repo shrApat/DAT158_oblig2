@@ -1,0 +1,54 @@
+/* Fikk ikke css koden til å funke for endre utsende til Gradio, 
+Koden er derimot med for å vise at det var forsøkt. */
+
+body {
+    background-color: #f5f5f5; /* Lys grå bakgrunn for hele siden */
+    font-family: Arial, sans-serif; /* Endre skrifttype */
+    color: #333; /* Farge på teksten */
+}
+
+/* Stil for chatboksen */
+#chatbot {
+    background-color: #000000;  /* Bakgrunnsfarge for chatboksen */
+    border: 1px solid #007BFF;  /* Kantlinje for chatboksen */
+    border-radius: 8px;         /* Rundede hjørner for chatboksen */
+    padding: 10px;              /* Innebygd plass */
+    max-height: 400px;          /* Maks høyde for chatboksen */
+    overflow-y: auto;           /* Rullestolpe hvis innholdet overskrider maksimal høyde */
+}
+
+/* Endre stilene for tekstboksen */
+#textbox-layout {
+    background-color: #f0f8ff;  /* Bakgrunnsfarge */
+    border: 2px solid #007BFF;  /* Kantlinje */
+    border-radius: 8px;         /* Rundede hjørner */
+    padding: 10px;              /* Innebygd plass */
+    font-size: 16px;            /* Skriftstørrelse */
+}
+
+/* Stil for chatboksen */
+#chatbot {
+    background-color: #ffffff;  /* Bakgrunnsfarge for chatboksen */
+    border: 1px solid #007BFF;  /* Kantlinje for chatboksen */
+    border-radius: 8px;         /* Rundede hjørner for chatboksen */
+    padding: 10px;              /* Innebygd plass */
+    max-height: 400px;          /* Maks høyde for chatboksen */
+    overflow-y: auto;           /* Rullestolpe hvis innholdet overskrider maksimal høyde */
+}
+
+/* Stil for meldinger fra brukeren */
+.user-message {
+    background-color: #d1e7dd;  /* Lys grønn bakgrunn for brukerens meldinger */
+    border-radius: 8px;         /* Rundede hjørner */
+    padding: 8px;               /* Innebygd plass */
+    margin-bottom: 8px;         /* Avstand mellom meldinger */
+}
+
+/* Stil for meldinger fra assistenten */
+.assistant-message {
+    background-color: #cfe2ff;  /* Lys blå bakgrunn for assistentens meldinger */
+    border-radius: 8px;         /* Rundede hjørner */
+    padding: 8px;               /* Innebygd plass */
+    margin-bottom: 8px;         /* Avstand mellom meldinger */
+}
+

@@ -1,0 +1,89 @@
+NORSKE RESTURANTER
+Pingvinen - Husmannskost, norske klassikere og tradisjonell pubmat.
+Lysverket - Moderne norsk mat med fokus på sjømat og lokale råvarer.
+Bare Vestland - Tapas inspirert av vestnorsk mattradisjon.
+Bryggen Tracteursted - Tradisjonell, historisk norsk meny på Bryggen.
+
+SJØMAT
+Fjellskål Fisketorget - Fersk sjømat rett fra fisketorget, klassiske sjøretter.
+Enhjørningen Fiskerestaurant - Sjømat og tradisjonelle fiskeretter i historisk atmosfære.
+Cornelius Sjømatrestaurant - Eksklusive sjømatopplevelser på Holmen.
+
+ITALIENSKE RESTURANTER
+Villa Blanca - Italiensk mat med fokus på pizza og pasta.
+Ristorante Villani - Autentisk italiensk mat på Bryggen.
+Da Stefano - Italiensk meny med hjemmelaget pasta og risotto.
+
+ASIATISKE RESTURANTER
+Soya Restaurant - Sushi og asiatisk fushion.
+Sumo - Japansk og koreansk fushion, både sushi og varmretter.
+Nama - Sushi og japanske retter i elegant miljø.
+Hot Wok City - Kinesiske og thailandske retter i uformell setting.
+
+VEGETAR OG VEGENASKE RESTAURANTER
+Dwell - Plantebasert meny med smoothie bowls, salater og sunne alternativer.
+Pygmalion Økocafe og Galleri - Økologisk og bærekraftig mat med mange vegetariske og veganske alternativer.
+Nobel Bopel - Veganske retter i kunstnerisk kafésetting.
+
+KAFEER
+Kaffemisjonen - Kvalitetskaffe og enkle retter i avslappet atmosfære.
+Blom - Koselig kafé som serverer smørbrød og bakverk.
+Godt Brød - Økologisk bakeri med sandwicher, bakverk og salater.
+Det Lille Kaffekompaniet - Lokal kafé kjent for god kaffe og hyggelig atmosfære.
+Amerikanske og Burgersteder
+Inside Rock Café - Burgere og amerikansk-inspirert pubmat.
+Roll & Rock - Klassiske amerikanske burgere i rock'n'roll-inspirert miljø.
+Lucky Bowl & Lounge - Burgere og komfortmat i kombinasjon med bowling.
+Bergen Kaffebrenneri - Eget kaffebrenneri med fokus på spesialkaffe og baristakunst.
+Blomstercaféen - Koselig kafé med en blomstrende atmosfære og lette retter.
+Wild Food Café - Økologisk kafé med fokus på bærekraftige råvarer og spesialkaffe.
+BarBarista - Fargerik kafé med retroinnredning og internasjonal meny.
+Kaffelade - Liten kafé kjent for både god kaffe og hjemmelaget sjokolade.
+Bastant Støletorget - Liten kafé med en spennende meny og lokale råvarer.
+Café Aura - Stilig kafé med spesialkaffe, kaker og en avslappet stemning.
+Kaf Kafe - Populær blant studenter og lokalbefolkning, med god kaffe og rimelige retter.
+Kaffekompaniet - Urban og moderne kafé kjent for sine smakfulle sandwicher og kaffe.
+Sweet Rain - Kafé og tebar med et variert utvalg av søte og salte retter.
+Litteraturhuset Café - Inspirerende sted med en bokfylt atmosfære, kjent for sine arrangementer og gode drikkevalg.
+Kaffehuset Friele - Historisk kafé med lange kaffetradisjoner og rolig miljø.
+Marg & Bein Kafé - Håndverksbakeri og kafé med fokus på ferske bakevarer.
+Krok & Krinkel Bokcafé - En bokkafé med rolig atmosfære, perfekt for å kombinere lesing og kaffe.
+Det Lille Kaffehuset - Liten, intim kafé med god kaffe og hjemmelagde bakevarer.
+Espresso House - Kjedekafé med mange lokasjoner i Bergen, populær blant studenter.
+Galleri Nygaten - Kunstgalleri og kafé i ett, kjent for sine varierte kulturarrangementer.
+Dromedar Kaffebar - En avslappende kafé med en spennende kaffemeny og komfortable sitteplasser.
+Små Plantelykke - Botanikkinspirert kafé hvor du kan kjøpe planter og drikke kaffe samtidig.
+Tre-Krone Kafé - Koselig kafé med klassiske norske kaker og bakverk.
+Cafe Sanaa - Kombinasjon av kafé og kulturell møteplass med internasjonale innslag i menyen.
+
+ITERNASJONAL OG FUSION
+Colonialen 44 - Europeisk fushion med fokus på lokale råvarer.
+Boccone Ristorante - Moderne italiensk i kombinasjon med internasjonale retter.
+Escalón - Tapasbar med spansk inspirert meny.
+Bjerck - Internasjonale retter i moderne setting på Torgallmenningen.
+
+PUBER OG BARER
+No Stress - Cocktailbar kjent for kreative drinker.
+Apollon Platebar - Kombinerer musikk og baropplevelse med et stort utvalg øl.
+Henrik Øl og Vinstove - Pub med stort utvalg av norsk og internasjonal øl.
+Sjøboden - Uformell bar i historiske omgivelser på Bryggen.
+Altona Vinbar - Historisk vinbar på Hotel Augustin med et bredt utvalg av viner.
+Klubb Kok - Populær nattklubb og bar kjent for elektronisk musikk og DJ-er.
+Lille Øvregaten - Hyggelig bar med avslappet atmosfære og et godt utvalg av drinker.
+Vaskeriet - Stilig cocktailbar med kreative drinker, ofte med DJ-kvelder.
+Heksedans - Spennende, tematisk bar inspirert av hekser og mystikk.
+Bergen Ølfabrikk - Mikrobryggeri med unike øltyper og et koselig taproom.
+Magic Ice Bar - Isbar med iskunst, der du kan nyte drinker i et arktisk miljø.
+Skrivargarden - Intim bar på Bryggen med fokus på eksperimentelle cocktails.
+Biskopen - Tradisjonell pub med levende musikk og et stort ølutvalg.
+Vinbaren Stupsjøen - Bar med en omfattende vinliste og spesialiserte vinsmakinger.
+Boccone Vinotek - Moderne vinbar med et rikt utvalg fra hele verden.
+Bar Kollektivet - Populært sted for både lokale og besøkende, kjent for sitt kreative interiør og varierte drinkmeny.
+JACU - Bar med utsikt over Bryggen og en god miks av drinker og spesialiteter.
+Folk & Røvere - Uformell bar i Sandviken med et godt utvalg av øl og drinker.
+Mono - Minimalistisk bar med en omfattende cocktailmeny og en klassisk atmosfære.
+
+FINE DINING
+Colonialen 1887 - Eksklusiv meny med fokus på norske råvarer og eleganse.
+Restaurant 1877 - Norske råvarer i elegant setting med fokus på sesong og lokalt.
+Bergen Børs Hotel - Bare Restaurant - Michelin-stjerne og nordisk fushion i luksuriøs setting.
