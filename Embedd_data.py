@@ -13,13 +13,21 @@ from pathlib import Path
 script_dir = Path(__file__).resolve().parent
 os.chdir(script_dir)
 
-# Hent API key til open ai bibloteket og gi den til openai objektet
-with open("Data/API_KEY.txt", 'r') as file:
-    api_key = file.read().strip()
-openai.api_key = api_key
+# Try to get the API key from the environment variable (for hugging face space)
+api_key = os.getenv('API_key')
 
-#kunne laget en bedre flyt på lesing av objecter med et samlet object 
-#file_paths = {"Bergen_sessong_forslag.txt", "Bergen_resturanter.txt", "Bergen_aktiviteter.txt"}
+# If the environment variable is not set, read from the file
+if not api_key:
+    try:
+        with open("Data/API_KEY.txt", 'r') as file:
+            api_key = file.read().strip()
+        print("API key loaded from file.")
+    except FileNotFoundError:
+        raise FileNotFoundError("API key not found in the environment variable or file.")
+
+# Check if the API key was successfully loaded
+if not api_key:
+    raise ValueError("API key is missing! Please set the API_KEY environment variable or place it in 'Data/API_KEY.txt'.")
 
 # Define a function to parse files with headers
 def parse_file(file_paths):

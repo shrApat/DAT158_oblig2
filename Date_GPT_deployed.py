@@ -43,12 +43,6 @@ if not api_key:
 if not api_key:
     raise ValueError("API key is missing! Please set the API_KEY environment variable or place it in 'Data/API_KEY.txt'.")
 
-
-
-# Read the API key from the file
-#with open("Data/API_KEY.txt", 'r') as file:
-#    api_key = file.read().strip()
-
 # Set the API key for OpenAI
 openai.api_key = api_key
 

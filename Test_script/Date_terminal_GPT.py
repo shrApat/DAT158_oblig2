@@ -20,9 +20,21 @@ os.chdir(script_dir)
 ###
 # Note: For å redprodusere koden må du genere din egen API kode fra Open AI sine utviklertjenster
 ###
-with open("Data/API_KEY.txt", 'r') as file:
-    api_key = file.read().strip()
-openai.api_key = api_key
+# Try to get the API key from the environment variable (for hugging face space)
+api_key = os.getenv('API_key')
+
+# If the environment variable is not set, read from the file
+if not api_key:
+    try:
+        with open("Data/API_KEY.txt", 'r') as file:
+            api_key = file.read().strip()
+        print("API key loaded from file.")
+    except FileNotFoundError:
+        raise FileNotFoundError("API key not found in the environment variable or file.")
+
+# Check if the API key was successfully loaded
+if not api_key:
+    raise ValueError("API key is missing! Please set the API_KEY environment variable or place it in 'Data/API_KEY.txt'.")
 
 # Load Json bergen objektet
 with open('Data/bergen_embedded_data.json', 'r') as file:
